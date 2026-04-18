@@ -19,14 +19,6 @@ Welcome to the Menu-Driven Calculator project! This project is an implementation
 
 - **DOSBox**: This project is designed to run on DOSBox, a DOS emulator that allows you to run old DOS applications on modern systems.
 
-## Screen Shot
-![VERIFICATION](https://github.com/ahadrazadev/AssemblyLanguageDosbox/assets/147371347/4e99bac0-0260-4acc-9758-3259ae1900c7)
-
-![EXE COMMAND](https://github.com/ahadrazadev/AssemblyLanguageDosbox/assets/147371347/27a02d81-8159-4eb7-9101-d28c1ebe9a36)
-
-![DEMO](https://github.com/ahadrazadev/AssemblyLanguageDosbox/assets/147371347/813dcb85-c55f-4c1b-94f0-0e0e86c2ef9c)
-
-
 ## Usage
 
 1. **Download DOSBox**: Make sure you have DOSBox installed on your system.
